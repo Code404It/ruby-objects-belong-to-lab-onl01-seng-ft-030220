@@ -14,5 +14,3 @@ end
 class Author 
   attr_accessor :title, :author 
 end
-
-author.name  
