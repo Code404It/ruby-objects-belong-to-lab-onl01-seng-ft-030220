@@ -1,5 +1,5 @@
 class Song 
-  attr_accessor :title, :artist
+  attr_accessor :name, :artist
 end
 
 class Artist
@@ -9,9 +9,9 @@ end
 
 
 class Post 
-  attr_accessor :title 
+  attr_accessor :name 
 end 
 
 class Author 
-  attr_accessor :title, :author 
+  attr_accessor :name, :author 
 end
