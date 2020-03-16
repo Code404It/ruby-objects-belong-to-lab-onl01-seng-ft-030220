@@ -3,9 +3,7 @@ class Song
 end
 
 
-class Artist 
-  attr_accessor :name 
-end
+
 
 class Post 
   attr_accessor :title 
