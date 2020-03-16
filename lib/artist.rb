@@ -12,4 +12,5 @@ class Post
 end 
 
 class Author 
-  attr_accessor :title, 
+  attr_accessor :title, :author 
+end 
