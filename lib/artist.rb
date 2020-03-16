@@ -1,12 +1,11 @@
 class Song 
   attr_accessor :title, :artist
 end
-song.title = Song
-
 
 class Artist
   attr_accessor :name
 end
+
 
 
 class Post 
