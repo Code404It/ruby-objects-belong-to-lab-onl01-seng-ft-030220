@@ -3,7 +3,7 @@ class Song
   @title=title 
   end 
 end
-song=Song.new
+
 
 class Artist 
   attr_accessor :name 
