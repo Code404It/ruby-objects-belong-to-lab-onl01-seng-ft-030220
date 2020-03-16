@@ -9,9 +9,9 @@ end
 
 
 class Post 
-  attr_accessor :title 
+  attr_accessor :title, :author 
 end 
 
 class Author 
-  attr_accessor :name, :author 
+  attr_accessor :name
 end
