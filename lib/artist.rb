@@ -1,7 +1,7 @@
 class Song 
   attr_accessor :title, :artist
 end
-song.title = Song.new
+song.title = Song
 
 
 class Artist
